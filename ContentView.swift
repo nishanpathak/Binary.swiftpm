@@ -3,7 +3,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
+            Image(systemName: "star")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("I love golf!!!")
