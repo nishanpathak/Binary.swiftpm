@@ -7,14 +7,11 @@
 
 import SwiftUI
 
-struct binaryToHexidecimal: View {
+struct binaryToHexiDecimalView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct binaryToHexidecimal_Previews: PreviewProvider {
-    static var previews: some View {
-        binaryToHexidecimal()
-    }
-}
+
+    

@@ -7,14 +7,11 @@
 
 import SwiftUI
 
-struct decimalToHexidecimal: View {
+struct DecimalToHexadecimalView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct decimalToHexidecimal_Previews: PreviewProvider {
-    static var previews: some View {
-        decimalToHexidecimal()
-    }
-}
+
+    
